@@ -1,0 +1,1 @@
+13.38.0.160 ansible_ssh_private_key_file=~/Downloads/ansible.pem ansible_user=ubuntu
