@@ -4,7 +4,7 @@
   tasks:
   - name: install nginx server
     apt: 
-      name: nginx
+      name: nginx=
       state: latest
   - name: start nginx
     service:
